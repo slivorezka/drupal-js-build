@@ -39,7 +39,7 @@
     "@babel/preset-react": "^7.16.7",
     "@babel/register": "^7.17.7",
     "babel-plugin-add-header-comment": "^1.0.3",
-    "chalk": "^5.2.0",
+    "chalk": "^4.1.2",
     "chokidar": "^3.5.3",
     "cross-env": "^7.0.3",
     "dotenv-safe": "^8.2.0",
